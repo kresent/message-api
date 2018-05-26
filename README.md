@@ -1,6 +1,6 @@
 ## About
 
-Real-time file stored server
+Real-time file stored server for quick api testing
 
 ## Getting Started
 
